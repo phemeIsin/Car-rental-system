@@ -30,7 +30,7 @@ The system will help in managing of the inventory you have and make renting out 
 -asks for customers details
 
 
-3.rentalagency
+##3.rentalagency
 
 -has a function calculate called at line 77
 
