@@ -14,15 +14,24 @@ The system will help in managing of the inventory you have and make renting out 
 3.rental agency
 
 
-1.carrental
+##1.carrental
+
 -this is a public class with some private strings for encapsulation
+
 -asks for car details
+
 -it has a function compute
 
-2.customer
+
+##2.customer
+
 -has some variables and a function input
+
 -asks for customers details
 
+
 3.rentalagency
+
 -has a function calculate called at line 77
+
 -analyses the given data and outputs some info
